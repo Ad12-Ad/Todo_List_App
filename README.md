@@ -2,3 +2,4 @@
 This is a Todo List App created with kotlin using android studio
 
  
+output is displayed in screenshot uploaded
