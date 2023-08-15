@@ -2,4 +2,4 @@
 This is a Todo List App created with kotlin using android studio
 
  
-output is displayed in screenshot uploaded
+<img src="" data-canonical-src="" width="200" height="400" />
